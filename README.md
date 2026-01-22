@@ -1,6 +1,5 @@
-# Hi there 👋
+# Hi 👋
 
-### About Me
 - Product Manager with 5+ years building and scaling SaaS and marketplace platforms across automotive, beauty, and fintech
 - Data-driven problem solver with a Data Science background 
 - Cross-functional leader who coordinates Engineering, Design, Marketing, and Operations to deliver 
