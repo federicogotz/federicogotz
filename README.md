@@ -7,3 +7,6 @@
 - Bridge builder between technical and business teams — I focus on understanding root causes 
 ### What I'm Building
 [Tacker](https://github.com/federicogotz/tacker-public) - A personal finance tracker built to keep finances undercontrol with simplicity.
+
+..working on a tool to simply store and organise your prompts
+..working on an AI native Deign System generator to start projects in the right direction from Time 0
